@@ -1,0 +1,15 @@
+/*
+  CSE Test Code 5
+
+  Syntax Error: Expected SEMICOLON
+
+*/
+int main(){
+  int a;
+  int b;
+  int c;
+
+  a=a*b+c
+  b=b/c+3;
+
+}

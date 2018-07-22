@@ -1,0 +1,24 @@
+/*
+  CSE Test Code 3
+
+  Three common subexpressions
+  a/b and b/a is not the same
+
+*/
+int main(){
+  int a;
+  int b;
+  int c;
+  int d;
+  int e;
+  int z;
+  int v;
+
+
+	z=b*e-(e/d);
+  z=e*b+(d/e);
+  d=2*z*(b+c);
+  v=a*(b+c);
+  e=a*(e/d);
+
+}

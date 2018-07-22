@@ -1,0 +1,22 @@
+/*
+  CSE Test Code 2
+
+  Sample given for task
+
+*/
+int main(){
+  int a;
+  int b;
+  int c;
+  int d;
+  int e;
+  int z;
+  int v;
+
+
+  a=b+c-d
+  z=c+b+e
+  b=5
+  v=(c+b)*d
+
+}

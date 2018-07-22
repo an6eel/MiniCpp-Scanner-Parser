@@ -1,0 +1,19 @@
+/*
+  CSE Test Code 1
+
+  Simple code
+
+*/
+int main(){
+  int a;
+  int b;
+  int c;
+  int d;
+  int e;
+  int z;
+
+
+  a=b*c+d;
+  z=c*b-e;
+
+}

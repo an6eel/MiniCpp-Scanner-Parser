@@ -1,0 +1,17 @@
+/*
+  CSE Test Code 4
+
+  Lexical Error : character [ isn't a element of my language
+
+*/
+int main(){
+  int a[];
+  int b;
+  int c;
+  int d;
+  int e;
+
+	e=b-d;
+  d=a+c;
+
+}

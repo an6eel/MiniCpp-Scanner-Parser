@@ -1,0 +1,25 @@
+/*
+  CSE Test Code 8
+
+  Another sample with some CS
+
+*/
+int main(){
+
+  int t;
+  int f;
+  int z;
+  int a;
+  int l;
+  int w;
+  int g;
+  int s;
+  int x;
+
+
+  s=g+2*f-g/3;
+  w=z-(2*(x+a)-2)+f*2;
+  l=3*(a+x)-t;
+  w=3/g-z;
+
+}

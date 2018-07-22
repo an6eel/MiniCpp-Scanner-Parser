@@ -1,0 +1,20 @@
+/*
+  CSE Test Code 7
+
+  Error: Variable not declared is used
+
+*/
+int main(){
+  int a;
+  int b;
+  int c;
+  int d;
+  int e;
+  int v;
+
+
+  z=c+b;
+  d=3*d+e;
+  v=a*((b+c));
+
+}

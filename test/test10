@@ -1,0 +1,22 @@
+/*
+  CSE Test Code 10
+
+  Syntax Error: Argument expected after operator
+
+*/
+int main(){
+  int a;
+  int b;
+  int c;
+  int d;
+  int e;
+  int z;
+  int v;
+
+
+	z=c*b-e;
+  z=c+b;
+  d=2*z-;
+  v=a*((b+c))+b+c;
+
+}

@@ -1,0 +1,18 @@
+/*
+  CSE Test Code 6
+
+  Same common subexpression appears more than once in the same expression
+
+*/
+int main(){
+  int t;
+  int x;
+  int h;
+  int p;
+  int y;
+
+  t=h/y+h;
+  x=x+y-2*t;
+  p=h*(x+y)+y+x;
+
+}
